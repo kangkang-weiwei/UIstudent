@@ -1,0 +1,7 @@
+platform:ios, '7.0'
+
+target '知乎日报1.0' do
+pod'AFNetworking'
+pod'Masonry'
+pod'SDWebImage'
+end
